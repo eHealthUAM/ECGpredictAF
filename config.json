@@ -1,0 +1,6 @@
+{
+    "input_shape": [4800, 12, 1],
+    "num_categories": 2,
+    "feature_maps": 128,
+    "learning_rate": 0.001
+}
